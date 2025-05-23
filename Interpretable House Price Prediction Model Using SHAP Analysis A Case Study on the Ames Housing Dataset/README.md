@@ -39,18 +39,6 @@ conda activate house-price
 pip install -r requirements.txt
 ```
 
-## ▶️ How to Run
-
-```bash
-streamlit run app.py
-```
-
-## 🌐 Live Demo
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/your-username/your-repo-name/main/app.py)
-
-> Replace the link above with your deployed Streamlit Cloud URL after deployment.
-
 ## 🛠️ Models Used
 
 * **Linear Regression** (baseline)
